@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.body{
+    background-color: #2a5d5a;
+}
+.tit{
+    padding-top: 24px;
+    padding-bottom: 23px;
+    background-color: rgb(49, 19, 19);
+    width: 636px;
+    margin: 20px auto;
+    color: #ffffff;
+font-size: 64px;
+font-weight: 700;
+text-align: justify;
+text-align: center;
+}
+.papa{
+    margin: 0 auto;
+    padding: 45px 52px;
+    width: 1000px;
+    box-sizing: border-box;
+border: 10px solid rgb(255, 6, 6);
+background: rgb(0, 0, 0);
+}
+.bola{
+    
+    background: rgb(31, 232, 183);
+}
